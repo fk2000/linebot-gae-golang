@@ -15,3 +15,5 @@ LINE_BOT_CHANNEL_TOKEN=[Your Channel Token]
 
 `$ goapp deploy`
 
+# memo
+Push this repository to CodeShip.
